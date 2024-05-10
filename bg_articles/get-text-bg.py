@@ -9,6 +9,9 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from docx import Document
 
+'''
+This code is to extract text from Google Drive links in a CSV file.
+'''
 # If modifying these scopes, delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
 
@@ -86,7 +89,7 @@ def extract_text_from_link(drive_service, link):
 def main():
     drive_service = authenticate_google_drive_api()
 
-    # Replace 'your_csv_file.csv' with the path to your CSV file containing Google Drive links
+    # Replace with the path to CSV file containing Google Drive links
     csv_file_path = '../datasets/labeling-responses.csv'
     output_csv_path = 'tbg_results.csv'  # Define the output CSV file path
 
