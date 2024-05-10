@@ -1,1 +1,1 @@
-# Repo for Research Project: Evaluating the Representation of Marganlied Communities in Boston Media: A NLP & ML Approach
+# Research Project: Evaluating the Representation of Marginalized Communities in Boston Media: A NLP & ML Approach
