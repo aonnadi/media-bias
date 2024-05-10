@@ -9,6 +9,7 @@ Is Boston media like WGBH Boston discussing white communities different from non
 <img width="746" alt="Screenshot 2024-05-10 at 12 21 44 PM" src="https://github.com/aonnadi/media-bias/assets/74081840/64d3ace4-bd7c-4977-a97a-e428181bc9ee">
 
 West Roxbury demographic: Majority White
+
 Roxbury demographic: Majority Black & Latinx
 
 
