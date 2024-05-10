@@ -4,7 +4,7 @@
 Python (spaCy, NLTK, scikit-learn)
 
 ## tldr: 
-The guiding question of my project: Is Boston media like WGBH Boston discussing white communities different from non-white/marginalized communities?
+Is Boston media like WGBH Boston discussing white communities different from non-white/marginalized communities?
 
 ## Abstract:
 As the media plays an increasingly  pivotal role in shaping public opinion and influencing policy decisions, it is crucial to examine the biases and underrepresentation of marginalized groups, such as Black and African Americans, in media coverage. In this study, I will develop a proof of concept for evaluating the media coverage of underrepresented groups in Boston using Natural Language Processing (NLP) and Machine Learning (ML) technologies. My data comprises articles from various WGBH articles, which I analyzed using existing and custom-developed algorithms to identify and categorize the topics discussed. By focusing on the frequency of topics related to underrepresented groups and explicit mentions of race, my hope was to provide deeper insights into race usage in media coverage.
