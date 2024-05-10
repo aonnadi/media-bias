@@ -14,4 +14,4 @@ Google Drive: https://drive.google.com/drive/folders/1InobJ6PYyeBmq7HUgLUxRIPiEm
 
 Link to Boston Globe articles used: https://drive.google.com/drive/folders/1PlqwQFRVRpF5mEChxO9MeMzC9Pwfa8XD?usp=drive_link
 
-Link to WGBH Boston artciles used: https://drive.google.com/file/d/1QH8Ewjbnnxq6_FUd2AJgy1Bv1hvcAYQs/view?usp=drive_link
+Link to WGBH Boston articles used: https://drive.google.com/file/d/1QH8Ewjbnnxq6_FUd2AJgy1Bv1hvcAYQs/view?usp=drive_link
