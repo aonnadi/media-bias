@@ -1,0 +1,6 @@
+Article Number,Article Title,Sentiment Type,Sentiment Score,Sentiment Magnitude
+1,One,Document,-0.3,6.9
+2,Two,Document,-0.3,27
+3,Three,Document,0,9.5
+4,Four,Document,-0.4,11.3
+5,Five,Document,0.3,11.6
