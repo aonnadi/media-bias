@@ -10,7 +10,7 @@ My project culminates in a report outlining my methodology, results, and the exp
 ## Resources:
 *warning: really big files
 
-Google Drive 
+Google Drive: https://drive.google.com/drive/folders/1InobJ6PYyeBmq7HUgLUxRIPiEmN93akC?usp=sharing
 
 Link to Boston Globe articles used: https://drive.google.com/drive/folders/1PlqwQFRVRpF5mEChxO9MeMzC9Pwfa8XD?usp=drive_link
 
