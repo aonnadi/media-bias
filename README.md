@@ -8,6 +8,9 @@ Is Boston media like WGBH Boston discussing white communities different from non
 
 <img width="746" alt="Screenshot 2024-05-10 at 12 21 44 PM" src="https://github.com/aonnadi/media-bias/assets/74081840/64d3ace4-bd7c-4977-a97a-e428181bc9ee">
 
+West Roxbury demographic: Majority White
+Roxbury demographic: Majority Black & Latinx
+
 
 ## Abstract:
 As the media plays an increasingly  pivotal role in shaping public opinion and influencing policy decisions, it is crucial to examine the biases and underrepresentation of marginalized groups, such as Black and African Americans, in media coverage. In this study, I will develop a proof of concept for evaluating the media coverage of underrepresented groups in Boston using Natural Language Processing (NLP) and Machine Learning (ML) technologies. My data comprises articles from various WGBH articles, which I analyzed using existing and custom-developed algorithms to identify and categorize the topics discussed. By focusing on the frequency of topics related to underrepresented groups and explicit mentions of race, my hope was to provide deeper insights into race usage in media coverage.
